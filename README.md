@@ -138,10 +138,12 @@ Start the backend and frontend in separate terminals:
 ```bash
 # Terminal 1 - backend
 cd server
+npm install
 npm run dev
 
 # Terminal 2 - frontend
 cd client
+nom install
 npm run dev
 ```
 
@@ -164,9 +166,6 @@ Then open the frontend URL shown in your terminal (Vite's default is `http://loc
 - [ ] UI and accessibility improvements
 
 
-## License
-
-Add a license of your choice (for example, [MIT](https://choosealicense.com/licenses/mit/)) and describe it here.
 
 ## Author
 
